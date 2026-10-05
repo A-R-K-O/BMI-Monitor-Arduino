@@ -27,14 +27,14 @@ The pressure signal obtained from the cuff is acquired by the Arduino and proces
 
 ##  Hardware Components
 
-Arduino Uno
-Blood Pressure Cuff
-Pressure Sensor
-0.96" OLED Display (SSD1306)
-Breadboard
-Jumper Wires
-USB Cable
-Power Supply
+- Arduino Uno
+- Blood Pressure Cuff
+- Pressure Sensor
+- 0.96" OLED Display (SSD1306)
+- Breadboard
+- Jumper Wires
+- USB Cable
+- Power Supply
 
 ##  Software Requirements
 
