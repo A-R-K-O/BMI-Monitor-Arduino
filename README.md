@@ -1,2 +1,9 @@
-# BMI-Monitor-Arduino
-Arduino-based BMI and pulse monitoring system using a pulse sensor and OLED display.
+README.md
+src/blood_pressure_monitor.ino
+docs/block-diagram.png
+docs/circuit-diagram.png
+hardware/components.md
+hardware/pin-configuration.md
+data/sample_readings.csv
+LICENSE
+.gitignore
